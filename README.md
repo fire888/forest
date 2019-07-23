@@ -9,8 +9,7 @@ About
 ------------   
 ![pic](https://raw.githubusercontent.com/fire888/forest/master/src/Assets/preview.jpg)  
 
-Browser card game on *threejs*.  
-### [Demo](http://js.otrisovano.ru/tests/190710_kolobok/)
+Browser card game on *threejs*. ### [Demo](http://js.otrisovano.ru/tests/190710_kolobok/)
 
 Devel
 ------------
