@@ -18,6 +18,8 @@ In terminal:
 ```
 git init
 git clone https://github.com/fire888/forest.git
+cd forest
+npm install
 npm run build
 npm run start
 ```
