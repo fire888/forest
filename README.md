@@ -7,12 +7,8 @@
 
 About
 ------------   
-Browser card game on *threejs*.  
-  
-  
 ![pic](https://raw.githubusercontent.com/fire888/forest/master/src/Assets/preview.jpg)  
 
-
------------- 
-
-[## Play ##](http://js.otrisovano.ru/tests/190710_kolobok/)
+Browser card game on *threejs*.  
+  
+## [Play](http://js.otrisovano.ru/tests/190710_kolobok/)
