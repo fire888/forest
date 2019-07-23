@@ -15,7 +15,9 @@ Browser card game on *threejs*.
 Devel
 ------------
 In terminal:
+```
 git init
 git clone https://github.com/fire888/forest.git
 npm run build
 npm run start
+```
